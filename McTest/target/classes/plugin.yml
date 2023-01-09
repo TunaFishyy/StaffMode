@@ -1,0 +1,7 @@
+name: McTest
+version: '1.0'
+main: io.github.tunafishyy.mctest.Main
+api-version: 1.19
+commands:
+  staffmode:
+    description: Sets chat either to staff mode or not.
